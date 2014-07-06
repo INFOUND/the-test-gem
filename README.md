@@ -1,7 +1,7 @@
 the-test-gem
 ============
 
-A simple test GEM for experimenting
+A simple test GEM for experimenting...
 
 Just put the following line into your Gemfile:
 
