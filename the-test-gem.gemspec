@@ -4,7 +4,7 @@ require "the-test-gem/version"
 
 Gem::Specification.new do |s|
   s.name        = "the-test-gem"
-  s.version     = "0.0.1"
+  s.version     = The::Test::Gem::VERSION
   s.authors     = ["Sebastian"]
   s.email       = ["sebastian.poell@gmail.com"]
   s.homepage    = ""
